@@ -12,6 +12,14 @@ import {
   dziczPospoliteRosliny,
   dziczPospolitaZwierzyna,
   dziczPlotki,
+  miastaSpotkania,
+  miastaOdkrycia,
+  miastaNocneNiepokoje,
+  miastaSkrytki,
+  miastaPrzechodnie,
+  miastaPrzechodniePrzydomki,
+  miastaPrzechodnieZnaki,
+  miastaPlotki,
 } from "./vorpal.js";
 
 const generateButton = document.getElementById("generate-button");

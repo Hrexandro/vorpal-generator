@@ -121,7 +121,6 @@ export const dziczOdkryciaWPrzestworzach = {
   ],
 };
 
-/////////////////////////////////
 
 export const dziczOdkrycia = {
   type: "picker",
@@ -304,6 +303,215 @@ export const dziczPlotki = {
     "Żółta Wiedźma ma stado wiernych gargulców.",
   ],
 };
+
+export const miastaSpotkania = {
+  type: "picker",
+  list: [
+    "Bezdomne zwierzęta szukają jedzenia",
+    "Gargulce próbują porwać kogoś do pobliskiej wieży",
+    "Golem prze na oślep przez miasto",
+    "Handlarz wciska tandetę",
+    "Jeźdźcy bestii szukają zaczepki",
+    "Kapłan namawia do nawrócenia",
+    "Kieszonkowiec kradnie sakiewkę",
+    "Łowcy niewolników szukają samotnych przyjezdnych",
+    "Monstrualny wąż próbuje wciągnąć kogoś do kanału",
+    "Niewolnicy dźwigają lektykę",
+    "Pijani goście wracają z wesela",
+    "Procesja obnosi relikwię wokół świątyni",
+    "Straż miejska szuka kozła ofiarnego",
+    "Szuler szuka naiwniaków",
+    "Tłum obserwuje publiczną egzekucję",
+    "Tłum obserwuje występy wędrownych kuglarzy",
+    "Tłum protestujących zbiera cięgi od straży miejskiej",
+    "Tłum próbuje ukamienować kogoś za herezję",
+    "Tłum słucha kazania nawiedzonego kapłana",
+    "Żebrak prosi o datek",
+  ],
+};
+
+export const miastaOdkrycia = {
+  type: "picker",
+  list: [
+    "Dogodny punkt obserwacyjny",
+    "Kryjówka bandytów",
+    "Kryjówka sekty",
+    "Kryjówka szpiegów",
+    "Nieczynny warsztat",
+    "Nielegalna arena zapaśników",
+    "Opuszczony magazyn",
+    "Portal na przyległe pole",
+    "Sekretne laboratorium alchemika",
+    "Sekretne leże przebiegłego potwora",
+    "Sekretny dom uciech",
+    "Szybkie wejście na dachy",
+    "Szybkie zejście do kanałów",
+    "Tajna jaskinia hazardu",
+    "Tajne przejście do innej części miasta",
+    "Ukryty sklepik z kontrabandą",
+    "Zakamuflowana wieża czarodzieja",
+    "Zakamuflowany targ niewolników",
+    "Zamaskowane przejście poza mury miasta",
+    "Zamurowana kaplica zapomnianego bożka",
+  ],
+};
+
+export const miastaNocneNiepokoje = {
+  type: "picker",
+  list: [
+    "Dwaj przechodnie zaczynają się bić",
+    "Fragment ulicy zapada się do kanałów poniżej",
+    "Grajek uliczny okrutnie fałszuje",
+    "Kibice wiwatują na cześć zwycięskiego gladiatora",
+    "Ktoś dobija się do zamkniętych drzwi",
+    "Ktoś spada z dachu",
+    "Na sąsiednim dachu lądują gargulce",
+    "Nieludzkie wycie niesie się z oddali",
+    "Oddział żołnierzy gdzieś maszeruje",
+    "Pieje kur",
+    "Pijak śpiewa na całe gardło",
+    "Płonie niedaleki gmach",
+    "Pogoda gwałtownie się pogarsza",
+    "Psy wściekle ujadają",
+    "Straż miejska ściga zbiega",
+    "Ulicą sunie nocna procesja",
+    "Widmo opłakuje swoją stratę",
+    "Włamanie do sąsiadów",
+    "Z ciemnej uliczki słychać krzyki",
+    "Z ciemności wyłania się potwór",
+  ],
+};
+
+export const miastaSkrytki = {
+  type: "picker",
+  list: [
+    "Na wozie z sianem",
+    "Pod daszkiem studni",
+    "Pod parapetem",
+    "Pod progiem",
+    "Pod schodami",
+    "W beczce na deszczówkę",
+    "W ciemnym zaułku",
+    "W doniczce z kwiatkiem",
+    "W pękniętej amforze",
+    "W porzuconej klatce",
+    "W porzuconej torbie",
+    "W psiej budzie",
+    "W pustostanie",
+    "W rynnie",
+    "W skrzynce na listy",
+    "W starej skrzynce",
+    "W stercie odpadków",
+    "W szczurzej norze",
+    "W zapomnianym koszyku",
+    "Za obluzowaną cegłą",
+  ],
+};
+
+export const miastaPrzechodnie = {
+  type: "picker",
+  list: [
+    "Adept sztuk tajemnych",
+    "Cieśla",
+    "Dziecko",
+    "Flisak",
+    "Gospodyni",
+    "Handlarz",
+    "Kucharz",
+    "Kurtyzana",
+    "Murarz",
+    "Pasterz",
+    "Piwowar",
+    "Posłaniec",
+    "Robotnik",
+    "Rolnik",
+    "Rybak",
+    "Skryba",
+    "Sługa",
+    "Strażnik miejski",
+    "Szlachcic",
+    "Żebrak",
+  ],
+};
+
+export const miastaPrzechodniePrzydomki = {
+  type: "picker",
+  list: [
+    "Blondi",
+    "Bury",
+    "Buźka",
+    "Dziku",
+    "Grom",
+    "Gruby",
+    "Japa",
+    "Łysy",
+    "Maruda",
+    "Oczko",
+    "Palec",
+    "Pędzel",
+    "Pięść",
+    "Pyza",
+    "Rogal",
+    "Rudy",
+    "Ryba",
+    "Smoku",
+    "Wężu",
+    "Wilczarz",
+  ],
+};
+
+export const miastaPrzechodnieZnaki = {
+  type: "picker",
+  list: [
+    "Blizna na plecach",
+    "Blizna na torsie",
+    "Blizna na twarzy",
+    "Blizny na nogach",
+    "Blizny na rękach",
+    "Brakujące oko",
+    "Brakujące ucho",
+    "Brakujący palec",
+    "Brakujący ząb",
+    "Łysina",
+    "Nietypowy kolor oczu",
+    "Nietypowy kolor skóry",
+    "Nietypowy kolor włosów",
+    "Rozdwojony język",
+    "Tatuaż: cytat",
+    "Tatuaż: obsceniczny",
+    "Tatuaż: roślina",
+    "Tatuaż: symbol",
+    "Tatuaż: zwierzę",
+    "Złamany nos",
+  ],
+};
+
+export const miastaPlotki = {
+  type: "picker",
+  list: [
+    "[Imię] jest wiedźmą.",
+    "[Imię] skupuje artefakty, ale słabo płaci.",
+    "[Imię] szuka eskorty na wyprawę do (nazwa miasta).",
+    "[Imię] szuka kogoś od brudnej roboty.",
+    "[Imię] urodziła potwora.",
+    "[Imię] współpracuje z barbarzyńcami zza gór.",
+    "Coś się zagnieździło w kanałach.",
+    "Część zabudowy w mieście to gigantyczne, uśpione golemy.",
+    "Miejscowi bardowie podzielili między siebie miasto i wpływy.",
+    "Na dachu [nazwa lokalu] gniazdują skrzydlate potwory.",
+    "Nocą po ulicach krążą łowcy niewolników.",
+    "Nowe monety są z kiepskiego kruszcu.",
+    "Posągi przed pałacem to spetryfikowani ludzie.",
+    "Straż miejska poszukuje [imię].",
+    "Szykuje się zbrojny przewrót w mieście.",
+    "W [nazwa lokalu] chrzczą piwo na potęgę.",
+    "W [nazwa lokalu] podają szczurze mięso.",
+    "W beczkach i skrzynkach można czasem znaleźć złoto.",
+    "W świątyni [imię bożka] zdejmują klątwy za darmo.",
+    "Walki gladiatorów z potworami są pozorowane.",
+  ],
+};
+
 
 
 // export const dziczSpotkania = {
