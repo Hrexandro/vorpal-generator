@@ -1,7 +1,9 @@
 
 import {
   dziczSpotkania,
-  dziczSpotkaniaNaRzece
+  dziczSpotkaniaNaRzece,
+  dziczSpotkaniaWPodziemiach,
+  dziczSpotkaniaWPrzestworzach
 } from "./vorpal.js";
 
 const generateButton = document.getElementById("generate-button");
