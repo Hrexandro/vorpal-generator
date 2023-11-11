@@ -4,7 +4,14 @@ import {
   dziczSpotkaniaNaRzece,
   dziczSpotkaniaWPodziemiach,
   dziczSpotkaniaWPrzestworzach,
-  dziczOdkryciaNaRzece
+  dziczOdkryciaNaRzece,
+  dziczOdkrycia,
+  dziczNocneNiepokoje,
+  dziczSkrytki,
+  dziczPrzechodnie,
+  dziczPospoliteRosliny,
+  dziczPospolitaZwierzyna,
+  dziczPlotki,
 } from "./vorpal.js";
 
 const generateButton = document.getElementById("generate-button");
