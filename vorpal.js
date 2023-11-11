@@ -53,7 +53,6 @@ export const dziczSpotkaniaWPodziemiach = {
 "Pradawna machina przebija się przez ścianę",
 "Sklepienie zaczyna się walić",
 "Upiór wspomina światło dnia",
-
   ],
 };
 
@@ -70,6 +69,22 @@ export const dziczSpotkaniaWPrzestworzach = {
   "Z obłoków wyłania się rozgniewany dżinn",
   "Zawirowanie powietrza ciska drużyną na losowe przyległe pole",
   
+  ],
+};
+////////////////////////////////////////////////////////
+export const dziczOdkryciaNaRzece = {
+  type: "picker",
+  list: [
+    "Leże rzecznego potwora",
+    "Ławica magicznych ryb",
+    "Wejście do podwodnej jaskini",
+    "Wielka muszla",
+    "Wodorosty cenione przez smakoszy",
+    "Wrak barki",
+    "Zaciszna zatoczka",
+    "Zatopiony kufer",
+    "Złoty samorodek wśród kamieni",
+    "Zwłoki niesione przez prąd",
   ],
 };
 // export const dziczSpotkania = {

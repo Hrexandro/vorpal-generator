@@ -3,7 +3,8 @@ import {
   dziczSpotkania,
   dziczSpotkaniaNaRzece,
   dziczSpotkaniaWPodziemiach,
-  dziczSpotkaniaWPrzestworzach
+  dziczSpotkaniaWPrzestworzach,
+  dziczOdkryciaNaRzece
 } from "./vorpal.js";
 
 const generateButton = document.getElementById("generate-button");
@@ -16,7 +17,6 @@ const selectColumn = document.getElementById("select-column");
 
 
 categoryPicker.addEventListener("change", (e) => {
-  document.getElementsByTagName("footer")[0].classList.add("invisible");
   removeAllChildren(nameDisplay);
   updateSecondarySelectStatus();
 });
