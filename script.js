@@ -20,6 +20,21 @@ import {
   miastaPrzechodniePrzydomki,
   miastaPrzechodnieZnaki,
   miastaPlotki,
+  ruinySpotkania,
+  ruinyOdkrycia,
+  ruinyNocneNiepokoje,
+  ruinySkrytki,
+  ruinyPulapki,
+  ruinySny,
+  wiezeKomnaty,
+  wiezeAnomalie,
+  wiezeSkrytki,
+  wiezeSludzy,
+  wiezeKsiegi,
+  wiezeKomponenty,
+  wiezeGwiazdozbiory,
+  wiezeZnaki
+
 } from "./vorpal.js";
 
 const generateButton = document.getElementById("generate-button");

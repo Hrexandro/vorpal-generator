@@ -668,6 +668,206 @@ export const ruinySny = {
   ],
 };
 
+// Wieże: komnaty
+export const wiezeKomnaty = {
+  type: "picker",
+  list: [
+    "Alkowa",
+    "Biblioteka",
+    "Gabinet osobliwości",
+    "Garderoba",
+    "Komnata medytacyjna",
+    "Krypta",
+    "Kuchnia",
+    "Kuźnia",
+    "Loch",
+    "Łazienka",
+    "Magazyn komponentów",
+    "Obserwatorium astrologiczne",
+    "Pokoje sług",
+    "Pokój gościnny",
+    "Pracownia alchemiczna",
+    "Pracownia jubilerska",
+    "Sala operacyjna",
+    "Sala przywołań",
+    "Warsztat",
+    "Zbrojownia"
+  ]
+};
+
+// Wieże: anomalie
+export const wiezeAnomalie = {
+  type: "picker",
+  list: [
+    "Dywany zmieniające wzory",
+    "Gapiące się obrazy",
+    "Kot chodzący po suficie",
+    "Krwawiące ściany",
+    "Lewitujące przedmioty",
+    "Nieskończone klepsydry",
+    "Nieumarłe karaluchy",
+    "Okna pokazujące inne światy",
+    "Permanentne pajęczyny",
+    "Płomienie rzucające ciecie",
+    "Rośliny łaszące się jak koty",
+    "Samogrające instrumenty",
+    "Samopiszące się księgi",
+    "Tajemnicze szepty",
+    "Tańczące światła",
+    "Wędrujące meble",
+    "Wieczne przeciągi",
+    "Zapach morskiej bryzy",
+    "Zatrzaskujące się drzwi",
+    "Zegary chodzące wspak"
+  ]
+};
+
+// Wieże: skrytki
+export const wiezeSkrytki = {
+  type: "picker",
+  list: [
+    "Między książkami",
+    "Pod dywanem",
+    "Pod kafelkiem",
+    "Pod parapetem",
+    "W beczce",
+    "W czaszce",
+    "W kominku",
+    "W odpływie",
+    "W posągu",
+    "W rękawie szaty",
+    "W sakwie",
+    "W skrzyni",
+    "W słoju szlamu",
+    "W starej zbroi",
+    "W żyrandolu",
+    "Wewnątrz nogi mebla",
+    "Wśród butelek",
+    "Za obluzowaną cegłą",
+    "Za obrazem",
+    "Za pajęczyną"
+  ]
+};
+
+// Wieże: słudzy
+export const wiezeSludzy = {
+  type: "picker",
+  list: [
+    "Adepci magii",
+    "Bezduszni jaszczuroludzie",
+    "Czarujące pokojówki",
+    "Dwunożne kozły",
+    "Dystyngowani lokaje",
+    "Frywolne duszki",
+    "Gnijące zombie",
+    "Inteligentne szczury",
+    "Lamentujące upiory",
+    "Niedopłacani najemnicy",
+    "Ociężałe golemy",
+    "Posłuszne klony",
+    "Prostoduszne ogry",
+    "Przebiegli zabójcy",
+    "Szantażowani jeńcy",
+    "Szkaradne karły",
+    "Wielkie pająki",
+    "Zaklęte zbroje",
+    "Złośliwe impy",
+    "Znudzone kariatydy"
+  ]
+};
+
+// Wieże: księgi
+export const wiezeKsiegi = {
+  type: "picker",
+  list: [
+    "Almanach Alchemika",
+    "Bestiariusz Przywoływacza",
+    "Demonologia dla Zuchwałych",
+    "Dzielny Mały Kucyk",
+    "Historia Zapomnianych Ziem",
+    "Pomniejsze Kulty",
+    "Portale Zapomnianych Ziem",
+    "Przedwieczne Monstra",
+    "Przewodnik po Agdrze",
+    "Przewodnik po Erteir",
+    "Przewodnik po Lusz",
+    "Przewodnik po Sirag",
+    "Sekrety Świata Astralnego",
+    "Skarby Zapomnianych Ziem",
+    "Smoki przez Wieki",
+    "Tajemnice Astrologii",
+    "Tajniki Nekromancji",
+    "W Ogniu Pożądania",
+    "Wodzowie i Zdobywcy",
+    "Zmień Swoje Życie"
+  ]
+};
+
+// Wieże: komponenty
+export const wiezeKomponenty = {
+  type: "picker",
+  list: [
+    "Atrament krakena",
+    "Czaszka licza",
+    "Jedwab ogromnego pająka",
+    "Kły hydry",
+    "Krew amfisbeny",
+    "Kwiat drzewca",
+    "Łajno katoblepasa",
+    "Łapa gargulca",
+    "Oko bazyliszka",
+    "Pazur gryfa",
+    "Pióro feniksa",
+    "Róg demona",
+    "Róg jednorożca",
+    "Serce trolla",
+    "Smocze łuski",
+    "Ścięgna ogra",
+    "Śluz grzyboluda",
+    "Włos nimfy",
+    "Włos olbrzyma",
+    "Żądło mantykory"
+  ]
+};
+
+// Wieże: gwiazdozbiory
+export const wiezeGwiazdozbiory = {
+  type: "picker",
+  list: [
+    "Czarnoksiężnik",
+    "Giermek",
+    "Heros",
+    "Klejnot",
+    "Król",
+    "Księżniczka",
+    "Miecz",
+    "Okręt",
+    "Rumak",
+    "Smok",
+    "Wieża",
+    "Żółw"
+  ]
+};
+
+// Wieże: znaki
+export const wiezeZnaki = {
+  type: "picker",
+  list: [
+    "Kometa",
+    "Koniunkcja",
+    "Narodziny gwiazdy",
+    "Nowa planeta",
+    "Nowy gwiazdozbiór",
+    "Nowy księżyc",
+    "Rozbłysk słoneczny",
+    "Spadająca gwiazda",
+    "Zaćmienie",
+    "Zderzenie gwiazd",
+    "Zgaśnięcie gwiazdy",
+    "Zorza"
+  ]
+};
+
 
 // export const dziczSpotkania = {
 //   type: "picker",
