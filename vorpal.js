@@ -868,6 +868,677 @@ export const wiezeZnaki = {
   ]
 };
 
+export const zgliszczaSpotkania = {
+  type: "picker",
+  list: [
+    "Barbarzyńca przemierza zgliszcza",
+    "Barbarzyńcy dobijają rannych",
+    "Barbarzyńcy dzielą łupy",
+    "Barbarzyńcy opijają zwycięstwo",
+    "Barbarzyńcy rozbijają obóz",
+    "Barbarzyńcy szukają okazji do bitki",
+    "Drużyna zabłądziła na losowe pole przyległe do docelowego",
+    "Dziecko błąka się wśród zgliszczy",
+    "Ludzie wołają o pomoc z płonącego budynku",
+    "Ludzie wychodzą z kryjówki pod zgliszczami",
+    "Maruderzy ukrywają łupy",
+    "Potwór goni grupkę barbarzyńców",
+    "Potwór kona wśród zgliszczy",
+    "Potwór liże rany umierającego człowieka",
+    "Potwór pożera zwłoki",
+    "Stado potworów osacza rannego żołnierza",
+    "Starzec śpiewa wśród zgliszczy",
+    "Wieśniak przeczesuje zgliszcza",
+    "Wojownik dogorywa wśród zgliszczy",
+    "Żałobnicy grzebią zmarłych"
+  ]
+};
+
+export const zgliszczaOdkrycia = {
+  type: "picker",
+  list: [
+    "Kilka świeżych, płytkich grobów",
+    "Kilku martwych maruderów",
+    "Krater",
+    "Nietknięta piwnica pod zniszczonym domem",
+    "Nietknięty stos pogrzebowy",
+    "Niewielkie ruiny",
+    "Ogryzione kości wielkiego potwora",
+    "Porzucony oręż barbarzyńskiej produkcji",
+    "Pozostałości po uczcie barbarzyńców",
+    "Spalony dom",
+    "Spalony las",
+    "Splądrowany obóz barbarzyńców",
+    "Sterta trupów",
+    "Ślady stadka potworów",
+    "Świeżo rozstawiony obóz barbarzyńców",
+    "Ukrzyżowany zdrajca",
+    "Zatamowany strumień",
+    "Zatrute źródło",
+    "Zmasakrowane szczątki",
+    "Zrujnowana świątynia"
+  ]
+};
+
+export const zgliszczaNiepokojeNocne = {
+  type: "picker",
+  list: [
+    "Banshee opłakuje zniszczenia",
+    "Dwa potwory walczą o poszarpane truchło",
+    "Dziecko błąka się w poszukiwaniu rodziców",
+    "Eksplozja wśród zgliszczy",
+    "Kapłan odprawia rytuały pogrzebowe",
+    "Najeźdźcy wracają dokończyć dzieła zniszczenia",
+    "Padlinożerne potwory przybyły ucztować",
+    "Pijackie śpiewy maruderów",
+    "Płacz żałobników",
+    "Pogoda gwałtownie się pogarsza",
+    "Pożar wśród zgliszczy",
+    "Przybywa spóźniona odsiecz",
+    "Skrzydlate potwory kołują w powietrzu",
+    "Spłoszone zwierzę domowe",
+    "Trupy zaczynają powstawać z martwych",
+    "Ujadanie psów",
+    "Walą się resztki ściany",
+    "Wdowa opłakuje śmierć męża",
+    "Załamany człowiek szuka pocieszenia",
+    "Zdruzgotany najeźdźca szuka odkupienia"
+  ]
+};
+
+export const zgliszczaSkrytki = {
+  type: "picker",
+  list: [
+    "Na nadpalonym dachu",
+    "Pod gzymsem",
+    "Pod nadpaloną belką",
+    "Pod przewróconą taczką",
+    "Pod przewróconym płotem",
+    "Pod stosem szmat",
+    "W dziurawej beczce",
+    "W dziurawym kotle",
+    "W kupce gnatów",
+    "W pękniętym kuble",
+    "W płytkim grobie",
+    "W podartym worku",
+    "W rozbitej skrzyni",
+    "W rozbitym dzbanie",
+    "W starym kufrze",
+    "W stercie gruzu",
+    "W stercie paszy",
+    "W stratowanym ogrodzie",
+    "W studni",
+    "W zniszczonym wozie"
+  ]
+};
+
+export const zgliszczaPrzechodnie = {
+  type: "picker",
+  list: [
+    "Dezerter",
+    "Drwal",
+    "Goniec",
+    "Grabarz",
+    "Hiena cmentarna",
+    "Kanibal",
+    "Kapłan",
+    "Kupiec",
+    "Kupiec",
+    "Maruder",
+    "Murarz",
+    "Okultysta",
+    "Partyzant",
+    "Pasterz",
+    "Rolnik",
+    "Rolnik",
+    "Szabrownik",
+    "Urzędnik",
+    "Zwiadowca",
+    "Żołnierz"
+  ]
+};
+
+export const hordaSludzyMrokmora = {
+  type: "picker",
+  list: [
+    "Alchemik: szata, maska, kwas/olej/trujący gaz/pioruny w butelkach",
+    "Berserk: skórznia, żelazne pazury, przemiana w zwierzoluda",
+    "Czarownik: szata, maska, kostur/nóż/zwój",
+    "Jeździec: kolczuga, włócznia, łuk, tarcza, koń/dzik/byk/jaszczur",
+    "Łupieżca: skórznia, hełm, topór/miecz/pałka, worek",
+    "Niewolnik: łachmany, nóż/pałka",
+    "Okultysta: szaty, nóż, amulet/zwój/kadzielnica/kropidło",
+    "Osiłek: skórznia, hełm, młot/maczuga/cep/dwurak/berdysz/kastety",
+    "Poborca podatków: szata, sztylet/laska, mnóstwo pieniędzy, obstawa",
+    "Podpalacz: skórznia, maska, pochodnie, olej/smoła, arkan/łańcuch/hak",
+    "Poganiacz: skórznia, hełm, bicz",
+    "Poskramiacz: skórznia, hełm, bicz/sieć/arkan, wytresowane zwierzę",
+    "Rębacz: kolczuga, tarcza, hełm, topór/miecz/morgenstern",
+    "Smoczy adept: szata, maska, nóż, zieje wybranym żywiołem",
+    "Smoczy syn: zbroja łuskowa, hełm, dwurak/berdysz/włócznia, peleryna",
+    "Smoczy wybraniec: zbroja łuskowa, tarcza, hełm i topór/miecz/morgenstern",
+    "Strzelec: kolczuga, hełm, miecz, łuk/proca/oszczepy",
+    "Urzędnik: szata, sztylet/laska, zwój, pomniejsza ochrona",
+    "Włócznik: kolczuga, hełm, tarcza, włócznia/trójząb/halabarda",
+    "Zwiadowca: skórznia, hełm, nóż, proca"
+  ]
+};
+
+export const hordaPlemiona = {
+  type: "picker",
+  list: [
+    "Plemię Burzowego Młota",
+    "Plemię Czarnej Dłoni",
+    "Plemię Czarnych Cierni",
+    "Plemię Czerwonych Kruków",
+    "Plemię Kamiennych Serc",
+    "Plemię Krwawej Pięści",
+    "Plemię Milczącej Gwiazdy",
+    "Plemię Niebieskich Wilków",
+    "Plemię Płonącej Stali",
+    "Plemię Spijaczy Posoki",
+    "Plemię Splątanych Rogów",
+    "Plemię Stalowych Orłów",
+    "Plemię Szarych Serc",
+    "Plemię Topora",
+    "Plemię Wężowych Uszu",
+    "Plemię Wyjącego Pnia",
+    "Plemię Zatrutych Serc",
+    "Plemię Zgniataczy Czaszek",
+    "Plemię Zjadaczy Skał",
+    "Plemię Złamanego Kła"
+  ]
+};
+
+export const hordaKlany = {
+  type: "picker",
+  list: [
+    "Klan Bliznosercych",
+    "Klan Gnatożujów",
+    "Klan Hardodzielnych",
+    "Klan Krzywonogich",
+    "Klan Kwasożłopów",
+    "Klan Łamikarków",
+    "Klan Miażdżyczaszek",
+    "Klan Mieczogryzów",
+    "Klan Niedźwiedziouchych",
+    "Klan Ogniowłosych",
+    "Klan Panterookich",
+    "Klan Sinowłosych",
+    "Klan Smokobójców",
+    "Klan Stalomiotów",
+    "Klan Wężosercych",
+    "Klan Wilkojadów",
+    "Klan Wyrwidębów",
+    "Klan Żarogębych",
+    "Klan Żebrołamów",
+    "Klan Żelaznorękich"
+  ]
+};
+
+export const hordaPlotki = {
+  type: "picker",
+  list: [
+    "[Imię] miał sen, w którym horda rusza za morze",
+    "[Imię] pokonał stu wojowników w jednej bitwie",
+    "[Imię] wierzy, że pokonałby Mrokmora w zapasach",
+    "Astrologowie przepowiedzieli, że dobra passa wkrótce się skończy",
+    "Coraz więcej maruderów zostaje w tyle",
+    "Czarnoksiężnicy nie mają honoru",
+    "Horda przyjmuje ochotników w swe szeregi",
+    "Horda zużywa więcej zasobów, niż jest w stanie zagrabić w okolicy",
+    "Jeden z hersztów uciekł z bezcennym artefaktem",
+    "Mrokmor jest śmiertelnie chory",
+    "Mrokmor ma siłę wszystkich swoich przodków",
+    "Mrokmor potrafi petryfikować wzrokiem",
+    "Mrokmor został wykuty z żelaza, które spadło z nieba",
+    "Nie wszyscy członkowie hordy są wierni Mrokmorowi",
+    "O świcie mają ściąć złapanego dezertera",
+    "Poskramiaczom udało się okiełznać straszliwego potwora",
+    "Próbowano otruć żonę Mrokmora",
+    "Szeregi hordy mają zasilić górscy giganci",
+    "W szeregach hordy szerzy się nieznana wcześniej plaga",
+    "Wieczorem mają ukrzyżować pojmanego szpiega"
+  ]
+};
+
+// Potwory: generator
+export const potworyGenerator = {
+  type: "picker",
+  list: [
+    "Chimera: ciało lwa/konia/byka/kozła, ogon węża/skorpiona, głowa człowieka/lwa/orła/barana",
+    "Chimera: ciało lwa/konia/byka/kozła, ogon węża/skorpiona, skrzydła ptaka/nietoperza, głowa człowieka/lwa/orła/barana",
+    "Duch: człowieka/zwierzęcia/rośliny/potwora/dżinn/demon",
+    "Gargulec: granitowy/marmurowy/spiżowy/żelazny, skrzydła ptaka/nietoperza",
+    "Golem: granitowy/marmurowy/spiżowy/żelazny, misterny/toporny",
+    "Insekt: wielki pająk/skorpion/stonoga/osa/mrówka/komar, 2k100 nóg, żądło osy/skorpiona",
+    "Jaszczur: Ciało węża/krokodyla/żółwia, 1k10 głów, 0-2 łap",
+    "Jaszczur: Ciało węża/krokodyla/żółwia, 1k3 głów, 2k2 łap, skrzydła nietoperza/ważki/ptaka",
+    "Jaszczur: Ciało węża/krokodyla/żółwia, 2k6 głów, 2k12 łap, 1k2 ogonów",
+    "Małpa: mała/średnia/wielka, biała/brązowa/czarna, 2k2 rąk",
+    "Olbrzym: 1k2 głów, 1k3 oczu, 1k100 rąk, 1k10×3 metrów wzrostu",
+    "Olbrzym: 1k2 głów, 1k3 oczu, 1k3 rogów, 2k4 rąk, 3k3 metrów wzrostu",
+    "Ptak: granitowy/elektryczny/ognisty/organiczny, rozpiętość skrzydeł 1k8×3 metry",
+    "Rój: malutkich insektów/gryzoni/ptaków/nietoperzy/gadów/ryb",
+    "Ryba: rekin/płaszczka/węgorz/żabnica, wodna/piaskowa/powietrzna",
+    "Zwierzolud: cztery nogi i łeb kozła/barana/konia/byka/orła/lwa, reszta ludzka",
+    "Zwierzolud: cztery nogi kozła/barana/konia/byka/orła/lwa, reszta ludzka",
+    "Zwierzolud: dwie nogi i łeb kozła/barana/konia/byka/orła/lwa, reszta ludzka",
+    "Zwierzolud: dwie nogi kozła/barana/konia/byka/orła/lwa, reszta ludzka",
+    "Zwierzolud: łeb kozła/barana/konia/byka/orła/lwa, reszta ludzka",
+  ],
+};
+
+// Bożki: imiona
+export const bozkiImiona = {
+  type: "picker",
+  list: [
+    "Ctha-Sotha",
+    "Cthee-Shogtha",
+    "Cthoa-Ynarth",
+    "Dhothanophk",
+    "Fthulhyopha",
+    "Ghoa-Nianith",
+    "Nith-Shotha",
+    "Oleth",
+    "Rle-Lloigua",
+    "Sha-Nthloiga",
+    "Shuulmellyu",
+    "Ub-Tanoth",
+    "Ub-Yurath",
+    "Vhluuhgorath",
+    "Voorm-Llacha",
+    "Yathoniath",
+    "Yoleh",
+    "Yuhothoath",
+    "Zathyopha",
+    "Zothee",
+    "Bithonil",
+    "Ctha-Hanteg",
+    "Cthothoa",
+    "Dlyehothu",
+    "Fthoa-Azath",
+    "Gnigg-Shadrath",
+    "Gnyogthadrakh",
+    "Nianosha",
+    "Shoa-Shanyarl",
+    "Thuddithu",
+    "Turatha",
+    "Ub-Yekur",
+    "Ubboth",
+    "Uhg-Anath",
+    "Ulhub",
+    "Ulhubboth",
+    "Ulm-Urath",
+    "Ur-Ulzscharth",
+    "Voormitha",
+    "Yigosh",
+  ],
+};
+
+// Bożki: domeny
+export const bozkiDomeny = {
+  type: "picker",
+  list: [
+    "Blizny",
+    "Błoto",
+    "Brzytwy",
+    "Gnaty",
+    "Gwiazdy",
+    "Kajdany",
+    "Kły",
+    "Kolce",
+    "Kwas",
+    "Lawa",
+    "Mgła",
+    "Pleśń",
+    "Popiół",
+    "Posoka",
+    "Rogi",
+    "Ropuchy",
+    "Ruiny",
+    "Szlam",
+    "Sztylety",
+    "Ślepota",
+    "Bruk",
+    "Chwasty",
+    "Groby",
+    "Grzyby",
+    "Gwoździe",
+    "Mosty",
+    "Narkotyki",
+    "Padlina",
+    "Pijawki",
+    "Robactwo",
+    "Rozczarowania",
+    "Sępy",
+    "Szczury",
+    "Śmieci",
+    "Tatuaże",
+    "Wandale",
+    "Węgorze",
+    "Węże",
+    "Wodorosty",
+    "Złoto",
+  ],
+};
+
+// Przedmioty: codziennego użytku
+export const przedmiotyCodziennegoUzytku = {
+  type: "picker",
+  list: [
+    "Buty",
+    "Dywan",
+    "Kaptur",
+    "Kostur",
+    "Koszula",
+    "Kufel",
+    "Lina",
+    "Lira",
+    "Osełka",
+    "Pas",
+    "Peleryna",
+    "Pióro do pisania",
+    "Piszczałka",
+    "Rękawice",
+    "Sakwa",
+    "Spodnie",
+    "Spódnica",
+    "Stalowe kulki",
+    "Suknia",
+    "Szata",
+  ],
+};
+
+// Przedmioty: broń i zbroje
+export const przedmiotyBronIZbroje = {
+  type: "picker",
+  list: [
+    "Buty/nagolenniki",
+    "Długi/dwuręczny miecz",
+    "Hełm",
+    "Kastet/pazury",
+    "Krótki/długi łuk",
+    "Lekka/ciężka kusza",
+    "Młot/kafar",
+    "Morgenstern/korbacz",
+    "Napierśnik/kolczuga",
+    "Proca/oszczep",
+    "Rękawice/karwasze",
+    "Róg myśliwski",
+    "Siodło",
+    "Skórznia/przeszywanica",
+    "Szabla/katana",
+    "Sztandar/totem",
+    "Sztylet/krótki miecz",
+    "Tarcza/puklerz",
+    "Topór/berdysz",
+    "Włócznia/trójząb",
+  ],
+};
+
+export const przedmiotyKosztownosci = {
+  type: "picker",
+  list: [
+    "Berło",
+    "Bransoletka",
+    "Diadem",
+    "Figurka",
+    "Guz (ozdobny guzik)",
+    "Kielich",
+    "Kielich",
+    "Kolczyki",
+    "Korona",
+    "Łańcuszek",
+    "Maska",
+    "Naszyjnik",
+    "Obrączka",
+    "Pierścień",
+    "Pozytywka",
+    "Przycisk do papieru",
+    "Sztabka",
+    "Świecznik",
+    "Torkwes",
+    "Waza"
+  ]
+};
+
+export const przedmiotyMaterialy = {
+  type: "picker",
+  list: [
+    "Dzieło starożytnych",
+    "Misternie grawerowane",
+    "Platynowe",
+    "Srebrne",
+    "Wysadzane klejnotami",
+    "Z adamantium",
+    "Z drogocennego marmuru",
+    "Z egzotycznego drewna",
+    "Z elektrum",
+    "Z gwiezdnego metalu",
+    "Z jednego kawałka kryształu",
+    "Z kolorowego szkła",
+    "Z kości straszliwego potwora",
+    "Z masy perłowej",
+    "Z mitrilu",
+    "Z obsydianu",
+    "Z orichalcum",
+    "Z porcelany",
+    "Z rzadkiego koralu",
+    "Złote"
+  ]
+};
+
+export const przedmiotyZaklete = {
+  type: "picker",
+  list: [
+    "Chodzenie po ścianach",
+    "Chodzenie po wodzie",
+    "Codziennie tworzy 1 monetę",
+    "Gadający przedmiot",
+    "Krótkodystansowe loty",
+    "Niewidzialność na bezdechu",
+    "Odstrasza robactwo",
+    "Pozwala rozkazywać golemowi",
+    "Przenośna dziura",
+    "Przywołanie pomniejszego potwora",
+    "Wyzwala błyskawicę w linii prostej",
+    "Wyzwala deszcz kwasu",
+    "Wyzwala falę wody",
+    "Wyzwala kłęby duszącego gazu",
+    "Wyzwala kulę ognia",
+    "Wyzwala podmuch wiatru",
+    "Wyzwala stożek lodu",
+    "Wyzwala toczący się głaz",
+    "Zamienia wodę w wino",
+    "Zawraca pociski do strzelca"
+  ]
+};
+
+export const przedmiotyPrzeklete = {
+  type: "picker",
+  list: [
+    "Bezwładne nogi",
+    "Bezwładne ręce",
+    "Brak odbicia",
+    "Burzowa chmurka nad głową",
+    "Daltonizm",
+    "Hałasowanie przy każdym ruchu",
+    "Kamienny sen przez 8 godzin",
+    "Kompletne wyłysienie",
+    "Mówienie wspak",
+    "Obrośnięcie czarnym futrem",
+    "Okrutny rozstrój żołądka",
+    "Ośle uszy",
+    "Przyciąganie komarów",
+    "Przyciąganie piorunów",
+    "Przyciąganie potworów",
+    "Straszliwe koszmary senne",
+    "Tracenie 1k6 złota co godzinę",
+    "Upijanie się każdą cieczą",
+    "Włosy na języku i zębach",
+    "Zamiana w żabę"
+  ]
+};
+
+export const przedmiotyNapitki = {
+  type: "picker",
+  list: [
+    "Ciemne piwo Specjalność Agdry (10%)",
+    "Czaj barbarzyńców",
+    "Destylat przodków (95%)",
+    "Dobry rocznik wina z Lusz (15%)",
+    "Grzaniec korzenny (10%)",
+    "Kumys Wilczych Jeźdźców (5%)",
+    "Lokalne piwo (5%)",
+    "Lokalne wino owocowe (10%)",
+    "Miód generalski z Sirag (15%)",
+    "Miód gryczany z Sirag (10%)",
+    "Mleko",
+    "Napar kwiatowy",
+    "Napar ziołowy",
+    "Rosół z kaczki/kury/gołębia/gęsi",
+    "Sławny cydr z Erteir (5%)",
+    "Sok z lasu (jagody, jeżyny, maliny, poziomki itp.)",
+    "Sok z sadu (jabłka, gruszki, wiśnie, brzoskwinie itp.)",
+    "Wino gronowe Krew Lusz (10%)",
+    "Woda",
+    "Wywar z czarnych orzechów"
+  ]
+};
+
+export const przedmiotyJednorazowe = {
+  type: "picker",
+  list: [
+    "Lek (do krwi) – zasklepia rany",
+    "Lek (do oka) – zdejmuje klątwy",
+    "Lek (do płuc) – zwalcza choroby",
+    "Lek (do żołądka) – zwalcza trucizny",
+    "Narkotyk (do krwi) – łagodny pobudzacz, uzależnia po 3k6 dawkach",
+    "Narkotyk (do krwi) – silny pobudzacz, uzależnia po 1k6 dawkach",
+    "Narkotyk (do płuc) – łagodny rozluźniacz, uzależnia po 3k6 dawkach",
+    "Narkotyk (do płuc) – silny rozluźniacz, uzależnia po 1k6 dawkach",
+    "Narkotyk (do żołądka) – łagodny halucynogen, uzależnia po 3k6 dawkach",
+    "Narkotyk (do żołądka) – silny halucynogen, uzależnia po 1k6 dawkach",
+    "Niematerialność przez 1k6 minut",
+    "Niewidzialność przez 1k6 minut",
+    "Trucizna (do krwi) – wyniszcza",
+    "Trucizna (do krwi) – zabija",
+    "Trucizna (do płuc) – wyniszcza",
+    "Trucizna (do płuc) – zabija",
+    "Trucizna (do żołądka) – wyniszcza",
+    "Trucizna (do żołądka) – zabija",
+    "Widzenie w ciemnościach przez 1k6 minut",
+    "Żywioł w butelce"
+  ]
+};
+
+export const pomyslyNaPostacie = {
+  type: "picker",
+  list: [
+  "Cwany przemytnik",
+  "Cyniczny łowca nagród",
+  "Dobrotliwy łowca",
+  "Egoistyczny włamywacz",
+  "Honorowy najemnik",
+  "Jarmarczny siłacz",
+  "Jowialny zbójca",
+  "Nastoletni kieszonkowiec",
+  "Nieczuły lichwiarz",
+  "Nieokrzesany barbarzyńca",
+  "Odważny podróżnik",
+  "Pedantyczny skryba",
+  "Pobożny pielgrzym",
+  "Poważny cyrulik",
+  "Przedsiębiorczy kupiec",
+  "Strachliwy kartograf",
+  "Szlachetny rycerz",
+  "Towarzyski muzykant",
+  "Wyrywny wykidajło",
+  "Zaradny szewc",
+  ],
+  };
+  
+  export const przykladoweDruzyny = {
+  type: "picker",
+  list: [
+  "Banda barbarzyńców",
+  "Banda rabusiów",
+  "Grupa czeladników",
+  "Grupa myśliwych",
+  "Karawana kupiecka",
+  "Kolegium czarnoksiężników",
+  "Krąg druidów",
+  "Niesławni banici",
+  "Oddział zwiadowców",
+  "Orszak arystokraty",
+  "Paczka żaków",
+  "Pielgrzymka pokutników",
+  "Rodzina pionierów",
+  "Trupa cyrkowa",
+  "Wataha wilkołaków",
+  "Wianuszek adoratorów",
+  "Wyprawa badawcza",
+  "Wyprawa misyjna",
+  "Załoga rozbitków",
+  "Zbiegli niewolnicy",
+  ],
+  };
+  
+  export const przykladoweMotywacje = {
+  type: "picker",
+  list: [
+  "Dokonać zemsty",
+  "Dowieść swojej odwagi",
+  "Napić się w spokoju piwa",
+  "Obalić tyrana",
+  "Odkryć zaginioną cywilizację",
+  "Odpokutować za grzechy",
+  "Polec w chwale",
+  "Stworzyć mapę okolicy",
+  "Uratować świat",
+  "Wyzwolić niewolników",
+  "Zdobyć bogactwo",
+  "Zdobyć legendarny artefakt",
+  "Zdobyć miłość",
+  "Zdobyć potęgę",
+  "Zdobyć sławę",
+  "Zdobyć władzę",
+  "Zgładzić Mrokmora",
+  "Zgładzić straszliwą bestię",
+  "Zgromadzić armię",
+  "Zwiedzić świat",
+  ],
+  };
+  
+  export const przykladoweMiejscaStartu = {
+  type: "picker",
+  list: [
+  "Błądzicie po bagnach (1,8)",
+  "Obozujecie w dziczy (6,4)",
+  "Płyniecie rzeką (8,4)",
+  "Podróżujecie na południe (1,1)",
+  "Podróżujecie na północ (16,9)",
+  "Podróżujecie na wschód (1,10)",
+  "Podróżujecie na zachód (16,1)",
+  "Przemierzacie równiny (14,3)",
+  "Przeprawiacie się przez góry (14,6)",
+  "Przeszliście przez portal (15,2)",
+  "Przeszliście przez portal (2,9)",
+  "Spotykacie się w karczmie w Agdrze (7,6, Dzielnica Przybyszów)",
+  "Spotykacie się w karczmie w Erteir (10,3, Dzielnica Przybyszów)",
+  "Spotykacie się w karczmie w Lusz (1,5, Dzielnica Przybyszów)",
+  "Spotykacie się w karczmie w Sirag (12,9, Dzielnica Przybyszów)",
+  "Stoicie na rozstajach (3,5)",
+  "Wędrujecie traktem (11,7)",
+  "Wkraczacie do podziemi (4,2)",
+  "Wyruszacie z wieży Venghasta (12,4)",
+  "Wyruszacie z wieży Żółtej Wiedźmy (2,9)",
+  ],
+  };
+
+
+
 
 // export const dziczSpotkania = {
 //   type: "picker",

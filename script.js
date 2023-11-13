@@ -33,7 +33,31 @@ import {
   wiezeKsiegi,
   wiezeKomponenty,
   wiezeGwiazdozbiory,
-  wiezeZnaki
+  wiezeZnaki,
+  zgliszczaSpotkania,
+  zgliszczaOdkrycia,
+  zgliszczaNiepokojeNocne,
+  zgliszczaSkrytki,
+  zgliszczaPrzechodnie,
+  hordaSludzyMrokmora,
+  hordaPlemiona,
+  hordaKlany,
+  hordaPlotki,
+  potworyGenerator,
+  bozkiImiona,
+  bozkiDomeny,
+  przedmiotyCodziennegoUzytku,
+  przedmiotyBronIZbroje,
+  przedmiotyKosztownosci,
+  przedmiotyMaterialy,
+  przedmiotyZaklete,
+  przedmiotyPrzeklete,
+  przedmiotyNapitki,
+  przedmiotyJednorazowe,
+  pomyslyNaPostacie,
+  przykladoweDruzyny,
+  przykladoweMotywacje,
+  przykladoweMiejscaStartu
 
 } from "./vorpal.js";
 
@@ -48,7 +72,6 @@ const selectColumn = document.getElementById("select-column");
 
 categoryPicker.addEventListener("change", (e) => {
   removeAllChildren(nameDisplay);
-  updateSecondarySelectStatus();
 });
 
 function updatePick() {
